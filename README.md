@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Achrou?template=classic&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://github.com/Achrou/Achrou/blob/master/github-metrics.svg)
