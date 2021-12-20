@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: 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
 
           # Options
           user: Achrou
