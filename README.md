@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Achrou/Achrou/blob/master/github-metrics.svg)
+![Metrics](https://cdn.jsdelivr.net/gh/Achrou/Achrou/github-metrics.svg)
